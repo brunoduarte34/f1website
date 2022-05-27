@@ -1,6 +1,7 @@
-img {
+element.style {
     border-left-width: left;
-    padding-top: auto;
+    border-top-width: auto;
+    border-right-width: auto;
     border-bottom-width: auto;
     width: 200px;
 }
