@@ -1,34 +1,35 @@
 
+body { 
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 20 px;
+ }
 
 
-header
-{ 
-display: flex;
-justify-content: space-around; /* distribuição dos elementos */
-align-items: center;
-} 
 
-a 
-{ 
+header { 
+    display: flex;
+    justify-content: space-around; /* distribuição dos elementos */
+    align-items: center;
+   } 
+
+a { 
 text-decoration: none;
 color:lightseagreen;
-font-size: 1.5em;
+font-size: 1.5 em;
 }    
 
 
-main 
-{ 
+main { 
 display: flex;
 justify-content: space-around;
 }
 
-section 
-{ 
-width: 60%;
-box-sizing: border-box;
-padding: 20px;
-}
+section { 
+        width: 60 %;
+        box-sizing: border-box;
+        padding: 20 px;
+    }
 
-aside { width: 30%; box-sizing: border-box; padding: 20px;}  
+aside { width: 30 %; box-sizing: border-box; padding: 20 px;}  
 
-img { max-width: 100%;}
+img { max-width: 100 %;}
