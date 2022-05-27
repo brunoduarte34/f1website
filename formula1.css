@@ -1,22 +1,21 @@
-
 body { 
     font-family: 'Segoe UI', sans-serif;
-    font-size: 20 px;
+    font-size: 20px;
  }
-
 
 
 header { 
     display: flex;
-    justify-content: space-around; /* distribuição dos elementos */
+    justify-content: space-around; 
     align-items: center;
    } 
 
 a { 
 text-decoration: none;
 color:lightseagreen;
-font-size: 1.5 em;
+font-size: 1.5em;
 }    
+
 
 
 main { 
@@ -25,11 +24,11 @@ justify-content: space-around;
 }
 
 section { 
-        width: 60 %;
+        width: 60%;
         box-sizing: border-box;
-        padding: 20 px;
+        padding: 20px;
     }
 
-aside { width: 30 %; box-sizing: border-box; padding: 20 px;}  
+aside { width: 30%; box-sizing: border-box; padding: 20px;}  
 
-img { max-width: 100 %;}
+img { max-width: 100%;}
