@@ -1,3 +1,14 @@
 img {
     width: 200px;
   }
+
+  
+header { 
+  background-color: #0d153a;
+  color:white;
+  padding:20px 40px;
+  padding-top: 20px;
+  border-top-width: 10px;
+  width: 40px;
+}
+  
