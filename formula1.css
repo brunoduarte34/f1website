@@ -5,7 +5,7 @@ header{
   align-content: center;
   align-items: center;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 #insta{
@@ -35,8 +35,8 @@ header{
 }
 
 #ayrtonsenna{
-width: 300px;
-height: 220px;
+width: 400px;
+height: 320px;
 }
 
 article {
@@ -47,5 +47,9 @@ article {
 }
 
 p {
+  padding-left: 50px;
+}
+
+h2 {
   padding-left: 50px;
 }
