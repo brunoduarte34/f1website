@@ -46,6 +46,31 @@ height: 320px;
   align-items: center;
 }
 
+#lewishamilton{
+  width: 450px;
+  height: 320px;
+  }
+
+#lw {
+  display: flex;
+  text-align: justify;
+  flex-direction: row;
+  align-items: center;
+}
+
+#michaelschumacher{
+  width: 450px;
+  height: 320px;
+  }
+
+#ms {
+  display: flex;
+  text-align: justify;
+  flex-direction: row;
+  align-items: center;
+}
+
+
 p {
   padding-left: 50px;
 }
