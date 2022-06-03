@@ -1,4 +1,13 @@
 
+#redes {
+  display: flex;
+  flex-wrap: nowrap;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+
 #insta {
   width: 40px;
 
