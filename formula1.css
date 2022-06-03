@@ -1,8 +1,3 @@
-img {
-    width: 200px;
-  }
-
-  
 header { 
   background-color: #0d153a;
   color:white;
@@ -12,3 +7,27 @@ header {
   width: 40px;
 }
   
+#insta {
+  width: 40px;
+  padding-left: 550px;
+}
+
+#twitter {
+  width: 40px;
+}
+
+#facebook {
+  width: 40px;
+}
+
+#logof1 {
+  width: 200px;
+}
+
+#youtube {
+  width: 40px;
+}
+
+#tiktok {
+  width: 40px;
+}
