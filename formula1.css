@@ -62,12 +62,27 @@ height: 320px;
   width: 450px;
   height: 320px;
   }
-
+  
 #ms {
   display: flex;
   text-align: justify;
   flex-direction: row;
   align-items: center;
+}
+
+#ferrari {
+  width: 450px;
+  height: 320px;
+}
+
+#mercedes{
+  width: 450px;
+  height: 320px;
+}
+
+#redbullracing{
+  width: 450px;
+  height: 320px;
 }
 
 
