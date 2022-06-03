@@ -1,18 +1,12 @@
 
-#redes {
+header{
   display: flex;
   flex-wrap: nowrap;
   align-content: center;
   align-items: center;
   justify-content: center;
   flex-direction: row;
-  
-  display: flex;
-  flex-direction: row;
   justify-content: space-between;
-  align-content: center;
-  align-items: center;
-  flex-wrap: nowrap;
 }
 
 #insta {
