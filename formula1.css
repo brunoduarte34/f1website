@@ -8,14 +8,12 @@ header{
   justify-content: space-between;
 }
 
-#insta {
+#insta{
   width: 40px;
-
 }
 
-#twitter {
+#twitter{
   width: 40px;
-
 }
 
 #facebook {
@@ -23,18 +21,20 @@ header{
 
 }
 
-#logof1 {
+#logof1{
   height: 50px;
   width: 80px;
-
 }
 
-#youtube {
+#youtube{
   width: 40px;
-
 }
 
-#tiktok {
+#tiktok{
   width: 40px;
+}
 
+#ayrtonsenna{
+width: 300px;
+height: 220px;
 }
