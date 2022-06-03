@@ -75,9 +75,30 @@ height: 320px;
   height: 320px;
 }
 
+#f {
+  display: flex;
+  text-align: justify;
+  flex-direction: row;
+  align-items: center;
+}
+
 #mercedes{
   width: 450px;
   height: 320px;
+}
+
+#m {
+  display: flex;
+  text-align: justify;
+  flex-direction: row;
+  align-items: center;
+}
+
+#r {
+  display: flex;
+  text-align: justify;
+  flex-direction: row;
+  align-items: center;
 }
 
 #redbullracing{
