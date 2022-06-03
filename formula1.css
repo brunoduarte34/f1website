@@ -48,7 +48,9 @@ height: 320px;
 
 #lewishamilton{
   width: 450px;
-  height: 320px;
+  padding-top: 30px;
+  height: 285px;
+
   }
 
 #lw {
@@ -59,8 +61,10 @@ height: 320px;
 }
 
 #michaelschumacher{
-  width: 450px;
-  height: 320px;
+  width: 430px;
+  height: 300px;
+  padding-top: 30px;
+
   }
   
 #ms {
@@ -85,6 +89,7 @@ height: 320px;
 #mercedes{
   width: 450px;
   height: 320px;
+  
 }
 
 #m {
