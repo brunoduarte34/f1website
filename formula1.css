@@ -39,7 +39,7 @@ width: 450px;
 height: 320px;
 }
 
-article {
+#as {
   display: flex;
   text-align: justify;
   flex-direction: row;
