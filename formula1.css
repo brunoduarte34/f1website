@@ -87,9 +87,10 @@ height: 320px;
 }
 
 #mercedes{
+  padding-left: 30px
   width: 450px;
   height: 320px;
-  
+ 
 }
 
 #m {
@@ -107,8 +108,10 @@ height: 320px;
 }
 
 #redbullracing{
-  width: 450px;
-  height: 320px;
+  padding-right: 30px;
+  width: 400px;
+  height: 200px;
+
 }
 
 
